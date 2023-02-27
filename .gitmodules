@@ -1,0 +1,3 @@
+[submodule "SubmoduleRepository"]
+	path = SubmoduleRepository
+	url = E:\\Test\\SubmoduleRepository
